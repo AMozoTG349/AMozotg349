@@ -30,4 +30,4 @@ Estoy trabajando en  un mentor deportivo con IA, API-first, que ayuda a deportis
 <!-- RECOMENDACION:END -->
 
 ## 📫 Contacto
-[LinkedIn]([tu link]) · angel.mau.mozo@gmail.com
+[LinkedIn]([https://www.linkedin.com/in/angel-mauricio-mozo-perez-172017389/]) · angel.mau.mozo@gmail.com
