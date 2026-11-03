@@ -26,7 +26,7 @@ Estoy trabajando en  un mentor deportivo con IA, API-first, que ayuda a deportis
 ## ⭐ Recomendación de la semana
 <!-- RECOMENDACION:START -->
 **A Silent Voice (Una voz silenciosa)** · Película de anime
-Un chico intenta reparar el daño que le hizo a una compañera sorda en la escuela. · [Ver]()
+Un chico intenta reparar el daño que le hizo a una compañera sorda en la escuela. 
 <!-- RECOMENDACION:END -->
 
 ## 📫 Contacto
