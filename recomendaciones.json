@@ -2,19 +2,55 @@
   {
     "titulo": "One Piece",
     "tipo": "Manga/Anime",
-    "descripcion": "Lo amo, de mis animes favoritos",
+    "descripcion": "Lo amo, de mis animes favoritos.",
     "link": ""
   },
   {
-    "titulo": "StatQuest with Josh Starmer",
-    "tipo": "Canal de YouTube",
-    "descripcion": "Explica estadística y machine learning paso a paso.",
-    "link": "https://www.youtube.com/@statquest"
+    "titulo": "Re:Zero",
+    "tipo": "Anime",
+    "descripcion": "Un joven llega a otro mundo y cada vez que muere vuelve a un punto anterior en el tiempo.",
+    "link": ""
   },
   {
-    "titulo": "Kaggle Learn",
-    "tipo": "Cursos gratuitos",
-    "descripcion": "Mini cursos prácticos de Python, SQL y machine learning.",
-    "link": "https://www.kaggle.com/learn"
+    "titulo": "Overlord",
+    "tipo": "Anime",
+    "descripcion": "Un jugador queda atrapado en su videojuego con el poder de su personaje intacto.",
+    "link": ""
+  },
+  {
+    "titulo": "Dr. Stone",
+    "tipo": "Anime",
+    "descripcion": "La humanidad queda petrificada y reconstruirla depende de la ciencia.",
+    "link": ""
+  },
+  {
+    "titulo": "Kaguya-sama: Love is War",
+    "tipo": "Anime",
+    "descripcion": "Dos estudiantes brillantes compiten por lograr que el otro se declare primero.",
+    "link": ""
+  },
+  {
+    "titulo": "La nobleza de las flores",
+    "tipo": "Anime",
+    "descripcion": "Un chico de un colegio con mala fama y una chica de un colegio de élite descubren que los prejuicios entre ambos mundos no cuentan toda la historia.",
+    "link": ""
+  },
+  {
+    "titulo": "Quiero comerme tu páncreas",
+    "tipo": "Película de anime",
+    "descripcion": "Un chico descubre el secreto de una compañera y su amistad cambia cómo viven el tiempo que tienen.",
+    "link": ""
+  },
+  {
+    "titulo": "A Silent Voice (Una voz silenciosa)",
+    "tipo": "Película de anime",
+    "descripcion": "Un chico intenta reparar el daño que le hizo a una compañera sorda en la escuela.",
+    "link": ""
+  },
+  {
+    "titulo": "Look Back",
+    "tipo": "Película de anime",
+    "descripcion": "Dos chicas unidas por dibujar manga y lo que significa crear algo juntas.",
+    "link": ""
   }
 ]
