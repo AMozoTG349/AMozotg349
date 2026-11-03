@@ -25,8 +25,8 @@ Estoy trabajando en  un mentor deportivo con IA, API-first, que ayuda a deportis
 
 ## ⭐ Recomendación de la semana
 <!-- RECOMENDACION:START -->
-**[Título]** · [libro / video / curso / herramienta]
-[Una o dos líneas de por qué la recomiendas] · [Link]
+**StatQuest with Josh Starmer** · Canal de YouTube
+Explica estadística y machine learning paso a paso. · [Ver](https://www.youtube.com/@statquest)
 <!-- RECOMENDACION:END -->
 
 ## 📫 Contacto
