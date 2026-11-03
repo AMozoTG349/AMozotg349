@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "One Piece",
+    "tipo": "Manga/Anime",
+    "descripcion": "Lo amo, de mis animes favoritos",
+    "link": ""
+  },
+  {
+    "titulo": "StatQuest with Josh Starmer",
+    "tipo": "Canal de YouTube",
+    "descripcion": "Explica estadística y machine learning paso a paso.",
+    "link": "https://www.youtube.com/@statquest"
+  },
+  {
+    "titulo": "Kaggle Learn",
+    "tipo": "Cursos gratuitos",
+    "descripcion": "Mini cursos prácticos de Python, SQL y machine learning.",
+    "link": "https://www.kaggle.com/learn"
+  }
+]
