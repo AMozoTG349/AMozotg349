@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner_linkedin.png" alt="Banner de Angel Mozo" />
+</p>
 
-<!--
-**AMozoTG349/AMozotg349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Angel 👋
 
-Here are some ideas to get you started:
+Estudiante de **Ingeniería de Datos e Inteligencia Artificial** en la Universidad Autónoma de Occidente (Cali, Colombia). Me interesa el análisis de datos, los modelos predictivos y construir soluciones con datos. Busco **prácticas en análisis de datos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyecto en proceso
+
+Estoy trabajando en  un mentor deportivo con IA, API-first, que ayuda a deportistas de cualquier disciplina a entender el juego y mejorar su rendimiento a partir del conocimiento profundo del deporte: sus reglas, las jugadas reales y las decisiones tácticas. Estoy muy emocionado trabajando con el y espero realmente tenerlo muy pronto terminado!
+
+## 📚 Aprendiendo ahora
+- [Aprediendo a como utilizar correcta y eficientemente las inteligencias artificiales para automatizar procesos]
+- [Recuperando mi nivel de ingles]
+- [Redes e infraestructura en la universidad]
+
+## 🛠️ Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## ⭐ Recomendación de la semana
+<!-- RECOMENDACION:START -->
+**[Título]** · [libro / video / curso / herramienta]
+[Una o dos líneas de por qué la recomiendas] · [Link]
+<!-- RECOMENDACION:END -->
+
+## 📫 Contacto
+[LinkedIn]([tu link]) · angel.mau.mozo@gmail.com
