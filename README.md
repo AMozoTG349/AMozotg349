@@ -25,8 +25,8 @@ Estoy trabajando en  un mentor deportivo con IA, API-first, que ayuda a deportis
 
 ## ⭐ Recomendación de la semana
 <!-- RECOMENDACION:START -->
-**Look Back** · Película de anime
-Dos chicas unidas por dibujar manga y lo que significa crear algo juntas. · [Ver]()
+**One Piece** · Manga/Anime
+Lo amo, de mis animes favoritos. · [Ver]()
 <!-- RECOMENDACION:END -->
 
 ## 📫 Contacto
